@@ -1,0 +1,28 @@
+* {
+  background-color: antiquewhite;
+}
+.container {
+  margin: 1.2em;
+  font-size: 2.3rem;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+.header {
+  background-color: rgb(169, 242, 242);
+}
+.menu {
+  background-color: rgb(235, 121, 121);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content {
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer {
+  background-color: rgb(240, 209, 132);
+}
